@@ -6,14 +6,14 @@ Software Engineer | MERN Stack Developer | Cloud & DevOps Enthusiast
 
 <p align="center">
 Passionate about <strong>scalable systems</strong>, <strong>microservices</strong>, 
-<strong>Kubernetes</strong>, and <strong>Generative AI</strong>.
+<strong>Kubernetes</strong>, and <strong>Generative AI</strong>
 </p>
 
 <hr />
 
 <p align="center">
 I believe great software isn’t just about writing code — it’s about 
-<strong>designing reliable, resilient systems that scale</strong>.
+<strong>designing reliable, resilient systems that scale</strong>
 </p>
 
 <p align="center">
