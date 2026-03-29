@@ -5,8 +5,7 @@ Software Engineer | MERN Stack Developer | Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
-Passionate about <strong>scalable systems</strong>, <strong>microservices</strong>, 
-<strong>Kubernetes</strong>, and <strong>Generative AI</strong>
+Passionate about <strong>scalable systems</strong>, <strong>microservices</strong>, and <strong>Generative AI</strong>
 </p>
 
 <hr />
